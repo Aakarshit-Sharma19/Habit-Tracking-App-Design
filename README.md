@@ -6,7 +6,7 @@ This project is a concept design of a habit tracking app written in flutter and 
 
 
 
-<img src="/home/aakarshit/Projects_IDE/AndroidStudioProjects/Habit-Tracking-App/images/App-Screenshot.jpg" alt="App-Screenshot" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Aakarshit-Sharma19/Habit-Tracking-App/master/images/App-Screenshot.jpg" alt="App-Screenshot" style="zoom:33%;" />
 
 This app is a flutter implementation of an awesome app design [Habit tracking App](https://dribbble.com/shots/11109255-Habit-tracking-App) that I found on Dribbble by a great designer [Vitaly Belousov](https://dribbble.com/VitalyDesign). Go check his designs out.
 
